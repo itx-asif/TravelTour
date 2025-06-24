@@ -1,5 +1,5 @@
 import React from 'react';
-import Navbar from "../Component/navbar/navbar";
+import Navbar from "../Component/navbar/Navbar.jsx";
 import Hero from "../Component/Sections/Hero";
 import KeyBenefits from "../Component/Sections/KeyBenefits.jsx";
 import DestinationSection from "../Component/Sections/DestinationSection.jsx";
