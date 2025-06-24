@@ -1,5 +1,5 @@
-import destinations from "../../Data/destination.js";
-import DestinationCard from "../UI/DestinationCard.jsx";
+import destinations from "../../data/Destination.js";
+import DestinationCard from "../ui/DestinationCard.jsx";
 
 function DestinationSection({ columns = 3 }) {
     // Map column count to responsive classes

@@ -1,4 +1,4 @@
-import Button from "../UI/Button";
+import Button from "../ui/Button";
 import { BiLock, BiPhone } from "react-icons/bi";
 import { FaFacebook, FaUser } from "react-icons/fa";
 import { BsInstagram } from "react-icons/bs";

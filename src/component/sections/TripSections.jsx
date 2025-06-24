@@ -1,6 +1,6 @@
 import { useState } from "react";
-import TripCard from "../UI/TripCard";
-import tripData from "../../Data/trips";
+import TripCard from "../ui/TripCard";
+import tripData from "../../data/trips";
 
 const itemsPerPage = 9;
 

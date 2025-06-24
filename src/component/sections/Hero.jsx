@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import Button from "../UI/Button";
-import TextField from "../UI/textfield";
+import Button from "../ui/Button";
+import TextField from "../ui/textfield";
 import { BiSearch } from "react-icons/bi";
 import KeyBenefits from "./KeyBenefits.jsx";
 
