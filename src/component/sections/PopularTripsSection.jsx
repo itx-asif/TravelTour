@@ -1,5 +1,5 @@
 import TripCard from "../ui/TripCard";
-import tripData from "../../data/trips";
+import tripData from "../../data/Trips.jsx";
 function PopularTripsSection() {
     return (
         <section className="bg-white py-12 px-4">

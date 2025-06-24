@@ -1,4 +1,4 @@
-import {FaGlobe, FaTags, FaUsers} from "react-icons/fa";
+
 
 const pageContent = {
     about: {
