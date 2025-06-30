@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import Button from "../ui/Button";
 import TextField from "../ui/textfield";
 import { BiSearch } from "react-icons/bi";
-import KeyBenefits from "./KeyBenefits.jsx";
 
 const Hero = () => {
   const [keyword, setKeyword] = useState("");

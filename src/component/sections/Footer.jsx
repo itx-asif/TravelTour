@@ -54,7 +54,7 @@ function Footer() {
 
             {/* Bottom Line */}
             <div className="text-center text-sm text-gray-500 mt-10 border-t border-gray-700 pt-4">
-                © {new Date().getFullYear()} TravelTour. All rights reserved.
+                © {new Date().getFullYear()} developedbyasif. All rights reserved.
             </div>
         </footer>
     );
